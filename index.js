@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    var_envelope = $("#envelope");
+    var envelope = $("#envelope");
     var button_open = $("#open");
     var button_reset = $("#reset");
 
