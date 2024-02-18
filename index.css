@@ -211,10 +211,7 @@ body{
 
 .reset{
     text-align: center;
-    position: relative;
-    top: 150px;
-    left: 50%;
-    transform: translateX(-50%);
+    position: absolute;
 }
 
 .reset button{
