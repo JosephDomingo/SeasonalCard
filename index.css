@@ -3,11 +3,15 @@ body{
 }
 
 .envelope_body{
+    position: relative;
     height: 380px;
 }
 
 #envelope{
-    position: relative;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translatex(-50%);
     height: 180px;
     width: 280px;
     border-bottom-left-radius: 6px;
@@ -205,7 +209,9 @@ body{
 }
 
 .reset{
+    position: relative;
     text-align: center;
+    margin-top: 120px;
 }
 
 .reset button{
@@ -220,7 +226,7 @@ body{
     font-size: 14px;
     text-transform: uppercase;
     margin: 20px;
-    margin-top: 100px;
+    margin-top: 20px;
     padding: 10px;
     line-height: 2em;
     text-decoration: none;
