@@ -215,6 +215,7 @@ body{
     bottom: 20px;
     left: 50%;
     transform: translatex(-50%);
+    margin-top: 200px;
 }
 
 .reset button{
@@ -248,5 +249,5 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     color: #7f0000;
     font-size: 70px;
-    margin: 150px;
+    margin: 300px;
 }
