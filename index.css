@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 168, 182);
+    background-color: #ffc3da;
 }
 
 .envelope_body{
@@ -15,7 +15,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     top: 50%;
-    background-color: rgb(227, 197, 156);
+    background-color: #FF6863;
     box-shadow: 0 4px 20px black;
 }
 
