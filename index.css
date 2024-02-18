@@ -196,7 +196,7 @@ body{
         top: 0;
     }
     100%{
-        bottom: -600px;
+        top: -600px;
     }
 }
 
