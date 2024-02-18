@@ -1,17 +1,15 @@
 $(document).ready(function(){
     var envelope = $("#envelope");
-    var button_open = $("#open");
-    var button_reset = $("#reset");
+    var btn_open = $("#open");
+    var btn_reset = $("#reset");
 
     envelope.click(function(){
         open();
     });
-
-    button_open.click(function(){
+    btn_open.click(function(){
         open();
     });
-
-    button_reset.click(function(){
+    btn_reset.click(function(){
         close();
     });
 
@@ -26,6 +24,3 @@ $(document).ready(function(){
     }
 
 })
-
-
-
