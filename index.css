@@ -1,12 +1,9 @@
 body{
-    background-color: rgb(238, 115, 136);
+    background-color: rgb(255, 168, 182);
 }
 
 .envelope_body{
     height: 380px;
-    width: 200px;
-    /*background-color: red;
-    color: red;*/
 }
 
 #envelope{
@@ -34,7 +31,7 @@ body{
 }
 
 .flipflop{
-    border-top: 98px solid rgb(255, 47, 81);
+    border-top: 98px solid #FF6863;
     border-left: 140px solid transparent;
     border-right: 140px solid transparent;
     border-bottom: 82px solid transparent;
@@ -216,9 +213,9 @@ body{
     font-style: normal;
     transition: all 0.1s linear;
     background-color: transparent;
-    border: solid 2px #FF6666;
+    border: solid 2px #FF6863;
     border-radius: 4px;
-    color: #FF6766;
+    color: #FF6863;
     display: inline-block;
     font-size: 14px;
     text-transform: uppercase;
@@ -232,7 +229,7 @@ body{
 }
 
 .reset button:hover{
-    background-color: #FF6766;
+    background-color: #FF6863;
     cursor: pointer;
     color: white;
 }
