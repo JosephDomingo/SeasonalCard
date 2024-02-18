@@ -210,10 +210,6 @@ body{
 }
 
 .reset{
-    position: absolute;
-    bottom: 20px;
-    left: 50%;
-    transform: translatex(-50%);
     text-align: center;
 }
 
